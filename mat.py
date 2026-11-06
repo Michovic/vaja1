@@ -1,0 +1,5 @@
+num1 = int(input("Vnesite 1. st: "))
+
+
+
+
